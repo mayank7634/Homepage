@@ -1,0 +1,61 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+h2{
+ text-decoration: underline;
+}
+
+/* Header Section */
+header {
+  background-color: #f190d1;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Features Section */
+#features {
+  padding: 50px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.feature {
+  margin-bottom: 30px;
+}
+
+.feature img {
+  max-width: 150px;
+}
+
+/* Benefits Section */
+#benefits {
+  padding: 50px;
+  background-color: #e76969;
+}
+
+#benefits ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+/* Footer Section */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #231c1c;
+  text-decoration: none;
+  font-weight: bold;
+}
